@@ -2,3 +2,4 @@ digite seu e-mail
 digite seu nome
 digite sua idade
 digite seu cpf
+digite seu rg
