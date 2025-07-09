@@ -1,3 +1,4 @@
-Me passa seu e-mail
-Me passa seu nome
-digete  sua idade
+digite seu e-mail
+digite seu nome
+digite sua idade
+digite seu cpf
